@@ -2,7 +2,7 @@
 
 - 💻 I’m currently working on my Master Thesis on Spiking Neural Networks and Event-Based Cameras
 - 📚 I obtained my Bachelor's Degree at Politecnico di Milano
-- I'm currently at Sophia Antipolis doing my thesis work at the research lab I3S/CNRS
+- 🔭 I'm currently at Sophia Antipolis doing my thesis work at the research lab I3S/CNRS
 
 <!--
 **rfma23/rfma23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
