@@ -1,18 +1,19 @@
 ### Hi there 👋
 
 - 💻 I’m currently working on my Master Thesis on Reinforcement Learning algorithms for Spiking Neural Networks and Event-Based Cameras at the research lab I3S/CNRS in Sophia Antipolis
-<code><img height="35" src="https://www.i3s.unice.fr/sites/default/files/NewlogoI3S_0.png"></code>
+<!--<code><img height="35" src="https://www.i3s.unice.fr/sites/default/files/NewlogoI3S_0.png"></code>
 <code><img height="35" src="http://www.cnrs.fr/themes/custom/cnrs/logo.svg"></code>
+-->
 
-- 📚 I obtained my Bachelor's Degree at Politecnico di Milano
-<code><img height="40" src="https://www.amatho.org/wp-content/uploads/2017/02/logo-poli-colori.png"></code>  
+- 📚 I obtained my Bachelor's Degree cum Laude at Politecnico di Milano
+<!--<code><img height="40" src="https://www.amatho.org/wp-content/uploads/2017/02/logo-poli-colori.png"></code>  
 - I have taken courses at: 
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cardiff_University_%28logo%29.svg/1200px-Cardiff_University_%28logo%29.svg.png"></code>
 <code><img height="35" src="https://seeklogo.com/images/K/kth-logo-2D6316D414-seeklogo.com.png"></code>
 <code><img height="35" src="https://univ-cotedazur.fr/medias/photo/ucalogoqhaut_1590599113062-png"></code>
 and done some research work at:
 <code><img height="30" src="https://french-tech-central.com/wp-content/uploads/2018/01/inr_logo_rouge_150.png"></code>
-
+-->
 - 💬 Ask me about anything!
 - 📫 How to reach me: rafael.mosca@mail.polimi.it
 
