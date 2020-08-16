@@ -14,7 +14,7 @@
 and done some research work at:
 <code><img height="30" src="https://french-tech-central.com/wp-content/uploads/2018/01/inr_logo_rouge_150.png"></code>
 -->
-- 💬 Ask me about anything!
+- 💬 Ask me anything!
 - 📫 How to reach me: rafael.mosca@mail.polimi.it
 
 **Languages and Tools:**
