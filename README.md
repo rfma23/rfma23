@@ -5,7 +5,7 @@
 <code><img height="35" src="http://www.cnrs.fr/themes/custom/cnrs/logo.svg"></code>
 -->
 
-- 📚 I obtained my Bachelor's Degree cum Laude at Politecnico di Milano
+- 📚 I obtained my Bachelor's and Master's Degree cum Laude at Politecnico di Milano
 <!--<code><img height="40" src="https://www.amatho.org/wp-content/uploads/2017/02/logo-poli-colori.png"></code>  
 - I have taken courses at: 
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cardiff_University_%28logo%29.svg/1200px-Cardiff_University_%28logo%29.svg.png"></code>
