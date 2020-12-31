@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on my Master Thesis on Reinforcement Learning algorithms for Spiking Neural Networks and Event-Based Cameras at the research lab I3S/CNRS in Sophia Antipolis
+<!--- 💻 I’m currently working on my Master Thesis on Reinforcement Learning algorithms for Spiking Neural Networks and Event-Based Cameras at the research lab I3S/CNRS in Sophia Antipolis
+-->
 <!--<code><img height="35" src="https://www.i3s.unice.fr/sites/default/files/NewlogoI3S_0.png"></code>
 <code><img height="35" src="http://www.cnrs.fr/themes/custom/cnrs/logo.svg"></code>
 -->
